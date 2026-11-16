@@ -1,0 +1,41 @@
+commit 6439710c4067961622fe13ff99547c3982c1d453
+Author: lemettre-clement <clement1.lemettre@epitech.eu>
+Date:   Mon Nov 16 11:12:53 2026 +0100
+
+    Ex_05
+
+commit 95217f2481ab80138b6df214f1983d203cec25a5
+Author: lemettre-clement <clement1.lemettre@epitech.eu>
+Date:   Mon Nov 16 11:11:11 2026 +0100
+
+    Ex_05
+
+commit af5ff90702176b451fc5beee89a4feeb221ddfc2
+Author: lemettre-clement <clement1.lemettre@epitech.eu>
+Date:   Mon Nov 16 11:10:07 2026 +0100
+
+    first commit
+
+commit 5efa6d9ed6f81b98b2c07d149a80975d4459555a
+Author: lemettre-clement <clement1.lemettre@epitech.eu>
+Date:   Mon Nov 16 10:53:03 2026 +0100
+
+    first commit
+
+commit 1eb0068006a45263758601f06a13b3f98efe6b9a
+Author: lemettre-clement <clement1.lemettre@epitech.eu>
+Date:   Mon Nov 16 10:52:45 2026 +0100
+
+    first commit
+
+commit 8d8e760fa65faf8096834898b09c435c19953c0a
+Author: lemettre-clement <clement1.lemettre@epitech.eu>
+Date:   Mon Nov 16 10:46:19 2026 +0100
+
+    Ex_05
+
+commit 50ddfc3c69a5c0b7c19995c3c4dc592def3855de
+Author: Clément Lemettre <clement1.lemettre@epitech.eu>
+Date:   Mon Nov 16 10:42:00 2026 +0100
+
+    Ex_05
